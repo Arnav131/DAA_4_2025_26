@@ -151,15 +151,15 @@ Paste your output image below this line:
 
 <!-- Paste N-Queens output screenshot here -->
 ### output_1
-![N-Queens Output](output_1.png)
+![alt text](1.png)
 ### output_2
-![N-Queens Output](output_2.png)
+![alt text](2.png)
 ### output_3
-![N-Queens Output](output_3.png)
+![alt text](3.png)
 ### output_4
-![N-Queens Output](output_4.png)
+![alt text](4.png)
 ### output_5
-![N-Queens Output](output_5.png)
+![alt text](5.png)
 
 
 
